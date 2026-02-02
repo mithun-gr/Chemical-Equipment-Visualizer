@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+*.egg-info/
+dist/
+build/
+*.db
+*.sqlite3
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnp
+.pnp.js
+build/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# Environment
+.env
+.env.local
+.env.production
+
+# Logs
+*.log
+
+# Test
+coverage/
+
+# Artifacts and task files - exclude from repo
+.gemini/
+DEPLOYMENT.md
+desktop_app/
+pdf_view_replacement.py
+generate_components.py
+chemical_equipment_like_sample.csv
