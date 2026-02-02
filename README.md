@@ -239,6 +239,6 @@ This project was created for internship screening purposes.
 
 ## 🔗 Demo
 
-- **GitHub Repository**: [Add your repo link]
+- **GitHub Repository**: https://github.com/mithun-gr/Chemical-Equipment-Visualizer
 - **Demo Video**: [Add your video link]
 - **Deployed Web App** (Optional): [Add deployment link]
