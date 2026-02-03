@@ -1,4 +1,4 @@
-# Chemical Equipment Parameter V visualizer
+# Chemical Equipment Visualizer
 
 A hybrid web + desktop application for analyzing chemical equipment data. Built for FOSSEE Intern Screening Task.
 
@@ -197,7 +197,7 @@ Compressor-1,Compressor,95,8.4,95
 
 ### PDF Generation
 
-- Returns HTML that can be printed to PDF
+- Returns PDF that can be printed
 - Includes summary statistics
 - Equipment type distribution table
 - Full equipment details
@@ -231,7 +231,7 @@ Test with provided `sample_data.csv` file.
 
 ## 👨‍💻 Author
 
-Built by [Your Name] for FOSSEE Intern Screening Task
+Built by Mithunraj G R for FOSSEE Intern Screening Task
 
 ## 📄 License
 
@@ -240,5 +240,5 @@ This project was created for internship screening purposes.
 ## 🔗 Demo
 
 - **GitHub Repository**: https://github.com/mithun-gr/Chemical-Equipment-Visualizer
-- **Demo Video**: [Add your video link]
-- **Deployed Web App** (Optional): [Add deployment link]
+- **Demo Video**: https://drive.google.com/drive/folders/18hwHmCwiatopX92HVgqcg-005te5IwBV
+
